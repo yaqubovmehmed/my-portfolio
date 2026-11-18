@@ -20,6 +20,6 @@ I focus on building useful applications, improving my backend skills, and writin
 
 # Mexa-Dev — Dasturchi portfoliom
 
-Mehmedjon Yaqubovning Python/backend va web loyihalari portfoliоsi.
+Mehmedjon Yaqubovning Python/backend va web loyihalari portfoliomiz.
 
 Yuqoridagi repozitoriyalarda o‘quv markazlarini boshqarish Telegram boti, o‘zbekcha onlayn do‘kon boti va O‘zbekiston hamda dunyo ob-havosini ko‘rsatuvchi HavoUz ilovasi jamlangan.
