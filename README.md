@@ -14,12 +14,4 @@ Python · aiogram · SQLite · SQLAlchemy · Docker · HTML · CSS · JavaScript
 
 ## About
 
-I focus on building useful applications, improving my backend skills, and writing clear setup guides so others can run and explore my projects.
-
----
-
-# Mexa-Dev — Dasturchi portfoliom
-
-Mehmedjon Yaqubovning Python/backend va web loyihalari portfoliomiz.
-
-Yuqoridagi repozitoriyalarda o‘quv markazlarini boshqarish Telegram boti, o‘zbekcha onlayn do‘kon boti va O‘zbekiston hamda dunyo ob-havosini ko‘rsatuvchi HavoUz ilovasi jamlangan.
+I focus on useful applications, growing my backend skills, and writing clear setup guides so others can run and explore my projects.
